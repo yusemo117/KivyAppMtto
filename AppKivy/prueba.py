@@ -1,0 +1,1 @@
+print(f"la suma de 0.1+0.2es: {float(0.1+0.2)}")
